@@ -2,11 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6cc644&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Luiz;Study+Analysis+and+development+of+systems;Welcome+to+my+github+profile!+:%29)](https://git.io/typing-svg)
 
-👨‍🎓 I'm a student of Analysis and Systems Development, seeking an opportunity in the software development and cloud computing field. I'm also interested in full-stack programming and game development. 🎮 I have knowledge in C#, C, C++, Java, JavaScript, HTML, CSS, Bootstrap, Cloud Technologies (Google Cloud, AWS), LGPD, Git, SQL, and Python. 🧠 I'm continually developing myself and learning more in the technology field.
+👨‍🎓 I am a student of Analysis and Systems Development, with skills in cloud architecture, front-end and back-end development, as well as knowledge of various programming languages and operating systems. I am seeking opportunities in the IT field and I am always eager to learn more about technology.
 
-🎯 My professional goals include working on information technology projects and using my technical skills to contribute to the success of a company. 💼 I believe that the combination of my higher education and industrial learning course will give me the tools and knowledge necessary to achieve these goals.
+🎯 My professional goals are to work on IT projects and use my technical skills to help a company succeed. 💼
 
-☕️ Let's grab a coffee! I'm always open to learning new things and discussing crazy ideas. 🤪 You can reach me at luizvinicius.emprego@hotmail.com.
+☕️ Let's grab a coffee! I am always open to learning new things and discussing crazy ideas. 🤪 You can reach me at luizvinicius.emprego@hotmail.com.
 
 <h4 align="center">
 <!--WhatsApp--><a href="https://wa.me/5519987721373" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"> </a>
