@@ -4,7 +4,7 @@
 
 👨‍🎓 I am a student of Analysis and Systems Development, with skills in cloud architecture, front-end and back-end development, as well as knowledge of various programming languages and operating systems. I am seeking opportunities in the IT field and I am always eager to learn more about technology.
 
-🎯 My professional goals are to work on IT projects and use my technical skills to help a company succeed. 💼
+🎯 My professional goal is to work on IT projects, leveraging my technical skills to help a company succeed. 💼 I am constantly seeking challenges and opportunities to learn and grow in the field of technology. 🚀
 
 ☕️ Let's grab a coffee! I am always open to learning new things and discussing crazy ideas. 🤪 You can reach me at luizvinicius.emprego@hotmail.com.
 
