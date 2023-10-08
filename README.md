@@ -1,17 +1,17 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6cc644&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6cc644&height=100&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6cc644&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Luiz;Study+Analysis+and+development+of+systems;Welcome+to+my+github+profile!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6cc644&size=25&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Luiz+:%29;Welcome+to+my+github+profile!+<3)](https://git.io/typing-svg)
 
 👨‍🎓 I am a student of Analysis and Systems Development, with skills in cloud architecture, front-end and back-end development, as well as knowledge of various programming languages and operating systems. I am seeking opportunities in the IT field and I am always eager to learn more about technology.
 
-🎯 My professional goal is to work on IT projects, leveraging my technical skills to help a company succeed. 💼 I am constantly seeking challenges and opportunities to learn and grow in the field of technology. 🚀
+🎯 My professional goal is to work on IT projects, leveraging my technical skills to help a company succeed. I am constantly seeking challenges and opportunities to learn and grow in the field of technology. 🚀
 
-☕️ Let's grab a coffee! I am always open to learning new things and discussing crazy ideas. 🤪 You can reach me at luizvinicius.emprego@hotmail.com.
-
-<h4 align="center">
-<!--WhatsApp--><a href="https://wa.me/5519987721373" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"> </a>
-<!--LinkedIn --><a href="https://www.linkedin.com/in/luizbelmonte/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
-</h4>
+## &nbsp;Tech Stack | Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,css,html,js,dotnet,cs,c,cpp,docker,py,unity,godot,linux" />
+  </a>
+</p>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lernenCode&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lernenCode&hide=Html&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lernenCode&theme=github_dark) |
 | :-: | :-: | :-: |
@@ -21,3 +21,6 @@
 
  ![Snake animation](https://github.com/lernenCode/lernenCode/blob/output/github-contribution-grid-snake.svg)
 
+## &nbsp;Contact 
+<!--WhatsApp--><a href="https://wa.me/5519987721373" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"> </a>
+<!--LinkedIn --><a href="https://www.linkedin.com/in/luizbelmonte/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
