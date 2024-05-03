@@ -13,13 +13,13 @@
   </a>
 </p>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lernenCode&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lernenCode&hide=Html&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lernenCode&theme=github_dark) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=camelAnxious&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=camelAnxious&hide=Html&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=camelAnxious&theme=github_dark) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lernenCode&theme=github_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=lernenCode&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&stroke=2D3742&ring=40c463&fire=40c463&currStreakNum=fff&sideNums=40c463&currStreakLabel=40c463&sideLabels=fff&dates=fff) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=camelAnxious&theme=github_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=camelAnxious&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&stroke=2D3742&ring=40c463&fire=40c463&currStreakNum=fff&sideNums=40c463&currStreakLabel=40c463&sideLabels=fff&dates=fff) |
 | :-: | :-: |
 
- ![Snake animation](https://github.com/lernenCode/lernenCode/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/camelAnxious/camelAnxious/blob/output/github-contribution-grid-snake.svg)
 
 ## &nbsp;Contact 
 <!--WhatsApp--><a href="https://wa.me/5519987721373" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"> </a>
