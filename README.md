@@ -19,7 +19,11 @@
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=camelAnxious&theme=github_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=camelAnxious&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&stroke=2D3742&ring=40c463&fire=40c463&currStreakNum=fff&sideNums=40c463&currStreakLabel=40c463&sideLabels=fff&dates=fff) |
 | :-: | :-: |
 
-![snake gif](https://github.com/camelAnxious/camelAnxious/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## &nbsp;Contact 
 <!--WhatsApp--><a href="https://wa.me/5519987721373" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"> </a>
