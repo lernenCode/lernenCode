@@ -4,7 +4,6 @@
 
 👨‍🎓 I am a graduate in Systems Analysis and Development, with skills in cloud architecture, front-end and back-end development, as well as knowledge of various programming languages and operating systems. I am seeking opportunities in the TI field and I am always eager to learn more about technology.
 
-🎯 My professional goal is to work on TI projects, leveraging my technical skills to help a company succeed. I am constantly seeking challenges and opportunities to learn and grow in the field of technology. 🚀
 
 ## &nbsp;Tech Stack | Tools
 <p align="center">
