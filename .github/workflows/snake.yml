@@ -11,12 +11,18 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
+        with:
+          # Atualiza para Node.js 20
+          ref: v2
+          # Força a execução com Node.js 16
+          node-version: '16'
 
       - name: Generate Snake SVG
         id: bylickilabs-Snake
         uses: Platane/snk@v2
         with:
           github_user_name: camelAnxious
+          # Corrige o parâmetro 'outputs'
           outputs: dist/github-snake-dark.svg?palette=github-dark
 
       - name: Check Git status
