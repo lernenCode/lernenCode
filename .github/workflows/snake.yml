@@ -11,22 +11,13 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
-        with:
-          # Atualiza para Node.js 20
-          ref: v2
-          # Força a execução com Node.js 16
-          node-version: '16'
 
       - name: Generate Snake SVG
         id: bylickilabs-Snake
         uses: Platane/snk@v2
         with:
           github_user_name: camelAnxious
-          # Corrige o parâmetro 'outputs'
           outputs: dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Check Git status
-        run: git status
 
       - name: Push changes
         uses: ad-m/github-push-action@master
@@ -34,6 +25,10 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
           force: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        # Verificar o status do Git após push
+        run: git status
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
