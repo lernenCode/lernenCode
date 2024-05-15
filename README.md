@@ -12,13 +12,13 @@
   </a>
 </p>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=camelAnxious&theme=react) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=camelAnxious&hide=Html&theme=react) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=camelAnxious&theme=react) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anxiousCamel&theme=react) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anxiousCamel&hide=Html&theme=react) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anxiousCamel&theme=react) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=camelAnxious&theme=react) | ![](https://github-readme-streak-stats.herokuapp.com/?user=camelAnxious&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&stroke=2D3742&ring=00cdf9&fire=0cf1ff&currStreakNum=fff&sideNums=00cdf9&currStreakLabel=00cdf9&sideLabels=fff&dates=fff) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anxiousCamel&theme=react) | ![](https://github-readme-streak-stats.herokuapp.com/?user=anxiousCamel&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&stroke=2D3742&ring=00cdf9&fire=0cf1ff&currStreakNum=fff&sideNums=00cdf9&currStreakLabel=00cdf9&sideLabels=fff&dates=fff) |
 | :-: | :-: |
 
-![snake gif](https://github.com/camelAnxious/camelAnxious/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/anxiousCamel/anxiousCamel/blob/output/github-contribution-grid-snake.svg)
 
 ## &nbsp;Contact 
 <!--WhatsApp--><a href="https://wa.me/5519987721373" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"> </a>
